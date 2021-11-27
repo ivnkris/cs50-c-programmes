@@ -14,7 +14,7 @@ clang -ggdb3 -O0 -std=c11 -Wall -Werror -Wextra -Wno-sign-compare -Wno-unused-pa
 
 CS50 library available from here: https://cs50.readthedocs.io/libraries/cs50/c/
 
-Run the programme with the following command-line arguments:
+Run the programme:
 
 ```
 ./mario
